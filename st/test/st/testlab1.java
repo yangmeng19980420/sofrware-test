@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class testlab1 {
 	@Test
-    public void testAdd(){
+    public void testlab1(){
     	lab1 tes = new lab1();
     	assertEquals(false,tes.triangle(84));
     	assertEquals(true,tes.triangle(83));
